@@ -1,7 +1,11 @@
 # Custom Elementor Widget
 - Select Widget with the options including an array of Several Cities
 - Fetch User's Billing Address from Woocommerce
-![Billing Address](https://i.ibb.co/4dsymgc/address.jpg)
+
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/4dsymgc/address.jpg">
+</p>
+
 ![Elementor Widget](https://i.ibb.co/vX6DXmK/elementor.jpg)
 
 
