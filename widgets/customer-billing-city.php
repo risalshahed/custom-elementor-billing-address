@@ -95,6 +95,7 @@ class Elementor_Billing_Address extends \Elementor\Widget_Base {
 
       if( $selected_city == strtolower($billing_city) ) {
         // Cities match
+        echo "Hey {$customer->first_name}, are you living in {$billing_city}?";
         echo "<p>The selected city matches your billing city!</p>";
       } else return;
     }

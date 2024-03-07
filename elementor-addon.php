@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Elementor Addon
- * Description: Simple hello world widgets for Elementor.
+ * Description: Customer Billing City widgets for Elementor.
  * Version:     1.0.0
- * Author:      Elementor Developer
- * Author URI:  https://developers.elementor.com/
+ * Author:      Risal Shahed
+ * Author URI:  https://www.linkedin.com/in/risal-shahed
  * Text Domain: elementor-addon
  */
 
